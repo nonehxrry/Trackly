@@ -1,6 +1,5 @@
 
 
-
 import mongoose, { InferSchemaType, Model } from "mongoose";
 
 const recentSubmissionSchema = new mongoose.Schema(
